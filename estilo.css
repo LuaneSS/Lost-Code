@@ -1,0 +1,40 @@
+html {
+  font-family: tahoma;
+  font-weight: 500;
+}
+
+body {
+  text-align: center;
+  background-color: #fafafa;
+}
+
+.item-menu {
+  list-style: none;
+  display: inline;
+  padding: 6px;
+}
+
+.link-menu {
+  color: white;
+  text-decoration: none;
+}
+
+#conteudo {
+  text-align: justify;
+}
+
+h3 {
+  text-align: center;
+}
+
+#rodape {
+  color: white;
+  font-family: serif;
+  text-align: left;
+  height: 200px;
+}
+
+#imgRodape {
+  width: 100px;
+  height: 100px;
+}
